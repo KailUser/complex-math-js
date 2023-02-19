@@ -4,6 +4,7 @@
 ![npm bundle size](https://img.shields.io/bundlephobia/min/complex-math-js?style=flat-square)
 ![NPM](https://img.shields.io/npm/l/complex-math-js?style=flat-square)
 [![](https://data.jsdelivr.com/v1/package/npm/complex-math-js/badge)](https://www.jsdelivr.com/package/npm/complex-math-js)
+[![Documentation Status](https://readthedocs.org/projects/complex-math-js/badge/?version=latest)](https://complex-math-js.readthedocs.io/en/latest/?badge=latest)
 
 A lightweight JavaScript library for complex number arithmetic.
 

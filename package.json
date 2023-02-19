@@ -1,6 +1,6 @@
 {
   "name": "complex-math-js",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "complex-math-js is a powerful JavaScript package for performing complex mathematical operations, including trigonometry, algebra, calculus, and more, with a simple and intuitive API.",
   "main": "index.js",
   "scripts": {
