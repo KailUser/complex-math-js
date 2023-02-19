@@ -1,4 +1,3 @@
-console.log("Starting to work 🚀");
 class Complex {
     constructor(real, imag) {
       this.real = real;
