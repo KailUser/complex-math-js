@@ -48,17 +48,28 @@ A class representing a complex number.
 
 ## Methods:
 `add(other)`: Returns a new Complex object that is the sum of this complex number and the other complex number.
+
 `subtract(other)`: Returns a new Complex object that is the difference between this complex number and the other complex number.
+
 `multiply(other)`: Returns a new Complex object that is the product of this complex number and the other complex number.
+
 `divide(other)`: Returns a new Complex object that is the quotient of this complex number and the other complex number.
+
 `magnitude()`: Returns the magnitude (absolute value) of this complex number.
+
 `conjugate()`: Returns a new Complex object that is the complex conjugate of this complex number.
+
 `toString()`: Returns a string representation of this complex number.
+
 ## Functions
  `addComplexNumbers(a, b)`: Returns the sum of the a and b complex numbers.
+ 
  `subtractComplexNumbers(a, b)`: Returns the difference between the a and b complex numbers.
+ 
  `multiplyComplexNumbers(a, b)`: Returns the product of the a and b complex numbers.
+ 
  `divideComplexNumbers(a, b)`: Returns the quotient of the a and b complex numbers.
+ 
 ## License
 
 ![NPM](https://img.shields.io/npm/l/complex-math-js?style=flat-square)
